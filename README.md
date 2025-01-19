@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -42,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
