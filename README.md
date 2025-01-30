@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
 ## Math
 |  |
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
