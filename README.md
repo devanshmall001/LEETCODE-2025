@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
