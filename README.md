@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
