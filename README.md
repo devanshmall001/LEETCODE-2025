@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
@@ -81,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
