@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
