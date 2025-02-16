@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0066-plus-one) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
 ## Union Find
@@ -140,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
