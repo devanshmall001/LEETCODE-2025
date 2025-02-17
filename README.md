@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0071-simplify-path) |
+| [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
