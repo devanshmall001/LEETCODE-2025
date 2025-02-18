@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0071-simplify-path) |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
 | ------- |
