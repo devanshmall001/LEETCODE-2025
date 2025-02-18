@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1275-validate-binary-tree-nodes](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1275-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
+| [1275-validate-binary-tree-nodes](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1275-validate-binary-tree-nodes](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1275-validate-binary-tree-nodes) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0226-invert-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
+| [1275-validate-binary-tree-nodes](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1275-validate-binary-tree-nodes) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Graph
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1275-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
