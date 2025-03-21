@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
 | ------- |
@@ -183,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
