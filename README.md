@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 ## String
@@ -186,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
