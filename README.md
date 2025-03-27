@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
+| [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
 | ------- |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
