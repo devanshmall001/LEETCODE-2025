@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
