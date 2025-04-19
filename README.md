@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
 ## Stack
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
