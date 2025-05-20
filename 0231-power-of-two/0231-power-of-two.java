@@ -7,15 +7,15 @@ class Solution{
             return true;
         }
         else{
-            while(num%2==0){
-                num=num/2;
-            }
-            if(num==1){
-                return true;
-            }
-            else{
-                return false;
-            }
+                while(num%2==0){
+                    num=num/2;
+                }
+                if(num==1){
+                    return true;
+                }
+                else{
+                    return false;
+                }
         }
     }
 }
