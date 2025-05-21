@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1236-n-th-tribonacci-number) |
 ## Union Find
 |  |
 | ------- |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
