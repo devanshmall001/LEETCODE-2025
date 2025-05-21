@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1236-n-th-tribonacci-number) |
+| [1642-water-bottles](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1642-water-bottles) |
 ## String
 |  |
 | ------- |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1236-n-th-tribonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
