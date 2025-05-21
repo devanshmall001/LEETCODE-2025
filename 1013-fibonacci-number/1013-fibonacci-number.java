@@ -1,18 +1,20 @@
 class Solution{
-    public int fib(int num){
-        if(num==0){
+    public int fib(int n){
+        if(n==0){
             return 0;
         }
-        else if(num==1){
+        else if(n==1){
             return 1;
         }
-        int first_term=0;
-        int second_term=1;
-        for(int i=1;i<=num;i++){
-            int third_term=first_term+second_term;
-            first_term=second_term;
-            second_term=third_term;
+        else{
+           int first_element=0;
+            int second_element=1;
+            for(int i=1;i<=n;i++){
+                int third_element=first_element+second_element;
+                first_element=second_element;
+                second_element=third_element;
+            }
+            return first_element;
         }
-        return first_term;
     }
 }
