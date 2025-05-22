@@ -7,14 +7,14 @@ class Solution{
             return 1;
         }
         else{
-           int first_element=0;
-            int second_element=1;
+            int first_number=0;
+            int second_number=1;
             for(int i=1;i<=n;i++){
-                int third_element=first_element+second_element;
-                first_element=second_element;
-                second_element=third_element;
+                int third_number=first_number+second_number;
+                first_number=second_number;
+                second_number=third_number;
             }
-            return first_element;
+            return first_number;
         }
     }
 }
