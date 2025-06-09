@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
+| [0300-longest-increasing-subsequence](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1236-n-th-tribonacci-number) |
 ## Union Find
