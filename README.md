@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
