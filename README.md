@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0540-single-element-in-a-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1642-water-bottles) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
