@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
 ## Stack
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0680-valid-palindrome-ii) |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 ## Monotonic Stack
 |  |
