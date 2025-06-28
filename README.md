@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0142-linked-list-cycle-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
@@ -263,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
