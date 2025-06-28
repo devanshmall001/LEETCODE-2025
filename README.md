@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0680-valid-palindrome-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
