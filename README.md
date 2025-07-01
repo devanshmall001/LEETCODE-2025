@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -266,5 +269,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
