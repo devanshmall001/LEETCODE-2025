@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0409-longest-palindrome) |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0680-valid-palindrome-ii) |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1160-letter-tile-possibilities) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String Matching
 |  |
 | ------- |
