@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0780-max-chunks-to-make-sorted) |
 | [0907-koko-eating-bananas](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0461-hamming-distance) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Recursion
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0908-middle-of-the-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
