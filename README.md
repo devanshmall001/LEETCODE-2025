@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0055-jump-game) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1013-fibonacci-number) |
