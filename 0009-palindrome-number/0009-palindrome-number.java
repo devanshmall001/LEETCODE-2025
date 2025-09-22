@@ -5,7 +5,7 @@ class Solution{
         while(nums>0){
             int digit=nums%10;
             rev=rev*10+digit;
-            nums/=10;
+            nums=nums/10;
         }
         if(temp==rev){
             return true;
