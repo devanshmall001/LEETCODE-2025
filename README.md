@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0780-max-chunks-to-make-sorted) |
 | [0907-koko-eating-bananas](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0907-koko-eating-bananas) |
+| [0932-monotonic-array](https://github.com/devanshmall001/LEETCODE-2025/tree/master/0932-monotonic-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/devanshmall001/LEETCODE-2025/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devanshmall001/LEETCODE-2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
